@@ -3,6 +3,9 @@
 Disclaimer:
 This is purely an academic project to show my proficiency in Tableau and Analytic skills. This analysis is not to proof, debate, or confirm the benefits or drawbacks of  vaccinations. 
 
+Published public version available at:
+https://public.tableau.com/app/profile/alex.aw5666/viz/COVID19-Dashboard_16466570274320/Story
+
 Project Background:  
 In early 2021, Singapore Government was introducing Pfizer & Moderna vaccines to the general population. At that time, only frontline workers and selected individuals were given the vaccines locally, hence limited data were available to the public. Even globally, information on the new mRNA vaccines severe side effects were limited as the world pushed forward to vaccinate and protect the population. The most widely available data were at https://vaers.hhs.gov/, consolidated based on voluntary submission of information. 
 
